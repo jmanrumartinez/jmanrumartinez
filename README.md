@@ -5,7 +5,7 @@ I'm Joan, a Senior Frontend Engineer from Barcelona, Spain 🌴🇪🇸 , now li
 
 - 👨🏽‍💻 I’m currently working at [Kijiji](https://github.com/KijijiCA) 🇨🇦 
 - ❤️ I’m passionate about product engineering, a11y and web performance
-- 🎨 I would love to work one day in a design system! I did a few open-source contributions to [SUI Components](https://github.com/SUI-Components/sui-components)
+- 🎨 I love design systems! I did a few open-source contributions to [SUI Components](https://github.com/SUI-Components/sui-components)
 - 💬 Ask me about anything, I am happy to help!
 - 📫 You can reach me at: jmanrumartinez@gmail.com
 
