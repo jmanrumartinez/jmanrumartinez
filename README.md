@@ -1,6 +1,6 @@
 <h1 align='center'> Hi there folks! :wave:</h1>
 <p align='center'>
-I'm Joan, a Senior Frontend Engineer from Barcelona, Spain 🌴🇪🇸
+I'm Joan, a Senior Frontend Engineer from Barcelona, Spain 🌴🇪🇸 , now living in Toronto, Canada! 🍁
 </p>
 
 - 👨🏽‍💻 I’m currently working at [Kijiji](https://github.com/KijijiCA) 🇨🇦 
