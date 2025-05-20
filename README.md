@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align='center'> Hi there folks! :wave:</h1>
+<p align='center'>
+I'm Joan, a Senior Frontend Engineer from Barcelona, Spain 🌴🇪🇸
+</p>
 
-<!--
-**jmanrumartinez/jmanrumartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏽‍💻 I’m currently working at [Kijiji](https://github.com/KijijiCA) 🇨🇦 
+- ❤️ I’m passionate about product engineering, a11y and web performance
+- 🎨 I would love to work one day in a design system! I did a few open-source contributions to [SUI Components](https://github.com/SUI-Components/sui-components)
+- 💬 Ask me about anything, I am happy to help!
+- 📫 You can reach me at: jmanrumartinez@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img width="50%"" alt="Joan Manrubia GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=jmanrumartinez&hide_border=true&theme=nightowl" />
+</p>
